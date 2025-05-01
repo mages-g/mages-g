@@ -11,7 +11,9 @@
 - **Expertise:** AI/ML, Large Language Models, Computer Vision, Automation Scripting, Data Analytics, IT Interoperability
 <br>
 - **Focus:** Delivering actionable insights by bridging data, AI, and healthcare
+
 <br>
+
 - **Domains:** Manufacturing | Healthcare | Finance | E-Commerce
 
 ---
