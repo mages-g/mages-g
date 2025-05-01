@@ -7,7 +7,7 @@
 ## About Me
 
 - **Education:** MS in Applied Data Science at Indiana University Indianapolis *(Graduating May 2025)*
-  
+  /n
 - **Expertise:** AI/ML, Large Language Models, Computer Vision, Automation Scripting, Data Analytics, IT Interoperability
   
 - **Focus:** Delivering actionable insights by bridging data, AI, and healthcare
