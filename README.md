@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm Magesh G
 
-🚀 
-** Data Analyst | Data Scientist | AI/ML/NLP in Healthcare/Mechanical Engineeering/ | NLP | In Healthcare/Manufacturing/Finance/E-Commerce**
+### 🚀 Data Analyst | Data Scientist | AI/ML/NLP | In Healthcare/Manufacturing/Finance/E-Commerce
 
 ---
 
