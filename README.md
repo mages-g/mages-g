@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Magesh G
+# 👋 Hey there, I'm Magesh G | Max
 
 ### 🚀 Data Analyst | Data Scientist | AI/ML/NLP | In Healthcare/Manufacturing/Finance/E-Commerce
 
